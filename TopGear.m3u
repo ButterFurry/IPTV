@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TopGear" tvg-name="Top Gear" tvg-logo="https://commons.wikimedia.org/wiki/File:Top-Gear-Logo.png" group-title="Local",Loop Channel
+http://10.10.3.1:8080/stream
